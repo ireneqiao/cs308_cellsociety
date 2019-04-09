@@ -1,0 +1,14 @@
+Alert;XML file is not found.;Upload a valid XML file or verify that default XML file exists in resources folder.
+Alert;Something went wrong when initializing XMLParser;Parsing failed.;Relaunch the program and try again. Contact the developer if the issue is not resolved.
+Alert;XML file is invalid.;Upload a valid simulation XML configuration file.
+Alert;Grid width/height not specified.;Upload a valid simulation XML configuration file.
+Alert;The simulation model type is not specified or invalid.;Upload a valid simulation XML configuration file.
+Alert;Invalid parameters for this simulation model.;Upload a valid simulation XML configuration file.
+Alert;Configuration file parsing pattern not specified or invalid.;Upload a valid simulation XML configuration file.
+Alert;Missing or invalid neighbor configuration for the specified cell shape.;Upload a valid simulation XML configuration file.
+Alert;Invalid state configuration for this simulation model.;Upload a valid simulation XML configuration file.
+Alert;Cell's location index out of grid bounds.;Upload a valid simulation XML configuration file.
+Alert;Specified cell initial state is invalid.;Upload a valid simulation XML configuration file.
+Alert;Configuration file parsing pattern conflicts with file content.;Upload a valid simulation XML configuration file.
+Alert;Missing cell information provided in configuration file.;Upload a valid simulation XML configuration file.
+

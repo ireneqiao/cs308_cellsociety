@@ -1,0 +1,26 @@
+<Simulation>
+    <Type>Segregation</Type>
+    <Title>Seg_01</Title>
+    <Author>Hsingchih Tang</Author>
+    <Width>50</Width>
+    <Height>50</Height>
+    <SpecifiedConfig>false</SpecifiedConfig>
+    <CellShape>Triangle</CellShape>
+    <NeighborStyle>0;1;10;11</NeighborStyle>
+    <State>
+        <StateName>Group1</StateName>
+        <StateImage>Red</StateImage>
+        <StatePercentage>0.4</StatePercentage>
+    </State>
+    <State>
+        <StateName>Group2</StateName>
+        <StateImage>Blue</StateImage>
+        <StatePercentage>0.4</StatePercentage>
+    </State>
+    <State>
+        <StateName>Empty</StateName>
+        <StateImage>White</StateImage>
+        <StatePercentage>0.2</StatePercentage>
+    </State>
+    <Parameter>0.6</Parameter>
+</Simulation>

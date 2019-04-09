@@ -1,0 +1,62 @@
+
+//Game of Life
+    String             Description
+    "Dead"              Cell is dead
+    "Alive"             Cell is alive
+
+    Params              Type
+    N/A
+
+//Segregation
+    String             Description
+    "Group1"           First population
+    "Group2"           Second population
+    "Empty"            Empty
+
+    Params                  Type    Description
+    Threshold               double   between 0 and 1 representing % threshold
+
+
+//Predator/Prey  aka WaTor
+    String             Description
+    "Fish"             Fish is present
+    "Shark"            Shark
+    "Empty"            Empty
+
+    Params                  Type    Description
+    Fish reproduction time  double     Number of rounds it takes the fish to reproduce
+    Shark reproduction time double    Number of rounds it takes the shark to reproduce
+    Shark starting energy   double     Amount of energy starts with
+    Shark energy from eating double    Amount of energy the shark gains from eating a fish
+
+//Fire
+    String             Description
+    "Burning"          Tree is on fire
+    "Tree"             Tree is present
+    "Empty"            No tree
+
+    Params                  Type    Description
+    Probability of catching double   between 0 and 1 representing % chance of catching fire
+
+//Percolation
+    String             Description
+    "Open"             Cell is open
+    "Blocked"          Cell is blocked
+    "Percolated"       Cell is percolated
+
+    Params                  Type    Description
+    N/A
+
+//RPS
+    String
+    "White"     cell is empty
+    "Red"       cell is red
+    "Green"     cell is green
+    "Blue"      cell is blue
+
+    Params
+    N/A
+
+
+
+

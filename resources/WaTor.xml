@@ -1,0 +1,30 @@
+<Simulation>
+    <Type>WaTor</Type>
+    <Title>WaTor_01</Title>
+    <Author>Hsingchih Tang</Author>
+    <Width>50</Width>
+    <Height>50</Height>
+    <SpecifiedConfig>false</SpecifiedConfig>
+    <CellShape>Square</CellShape>
+    <EdgeStyle>Toroidal</EdgeStyle>
+    <NeighborStyle>0;1;2;3;4;5;6;7</NeighborStyle>
+    <State>
+        <StateName>Fish</StateName>
+        <StateImage>Blue</StateImage>
+        <StatePercentage>0.8</StatePercentage>
+    </State>
+    <State>
+        <StateName>Shark</StateName>
+        <StateImage>Red</StateImage>
+        <StatePercentage>0.1</StatePercentage>
+    </State>
+    <State>
+        <StateName>Empty</StateName>
+        <StateImage>White</StateImage>
+        <StatePercentage>0.1</StatePercentage>
+    </State>
+    <Parameter>3</Parameter>
+    <Parameter>6</Parameter>
+    <Parameter>5</Parameter>
+    <Parameter>1</Parameter>
+</Simulation>

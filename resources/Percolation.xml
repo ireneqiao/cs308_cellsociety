@@ -1,0 +1,24 @@
+<Simulation>
+    <Type>Percolation</Type>
+    <Title>Perc_01</Title>
+    <Author>Hsingchih Tang</Author>
+    <Width>50</Width>
+    <Height>50</Height>
+    <SpecifiedConfig>false</SpecifiedConfig>
+    <NeighborStyle>1;3;4;6</NeighborStyle>
+    <State>
+        <StateName>Open</StateName>
+        <StateImage>White</StateImage>
+        <StatePercentage>0.6</StatePercentage>
+    </State>
+    <State>
+        <StateName>Blocked</StateName>
+        <StateImage>Black</StateImage>
+        <StatePercentage>0.3</StatePercentage>
+    </State>
+    <State>
+        <StateName>Percolated</StateName>
+        <StateImage>Blue</StateImage>
+        <StatePercentage>0.1</StatePercentage>
+    </State>
+</Simulation>

@@ -1,0 +1,19 @@
+<Simulation>
+    <Type>Game of Life</Type>
+    <Title>GOL_01</Title>
+    <Author>Hsingchih Tang</Author>
+    <Width>50</Width>
+    <Height>50</Height>
+    <SpecifiedConfig>false</SpecifiedConfig>
+    <NeighborStyle>0;2;4;6</NeighborStyle>
+    <State>
+        <StateName>Dead</StateName>
+        <StateImage>Blue</StateImage>
+        <StatePercentage>0.75</StatePercentage>
+    </State>
+    <State>
+        <StateName>Alive</StateName>
+        <StateImage>Green</StateImage>
+        <StatePercentage>0.25</StatePercentage>
+    </State>
+</Simulation>

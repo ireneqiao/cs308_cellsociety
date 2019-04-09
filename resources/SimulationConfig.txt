@@ -1,0 +1,24 @@
+Cell Society
+20
+20
+100
+250
+2000
+Game of Life
+0
+2
+WaTor
+4
+3
+Fire
+1
+3
+Segregation
+1
+3
+Percolation
+0
+3
+Rock Paper Scissors
+0
+4
