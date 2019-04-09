@@ -1,4 +1,4 @@
-CompSci 308: Simulation Project Analysis
+CompSci 308: Simulation Project Analysis, by Irene Qiao
 ===================
 
 > This is the link to the [assignment](http://www.cs.duke.edu/courses/compsci308/current/assign/02_simulation/):
